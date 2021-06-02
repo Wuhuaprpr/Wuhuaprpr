@@ -4,7 +4,7 @@
 [![Weibo](https://img.shields.io/badge/Weibo-e6152d.svg)](https://weibo.com/wuhuaprpr)
 [![Twitter](https://img.shields.io/badge/Twitter-1b91da.svg)](https://twitter.com/wuhuaprpr)
 [![Youtube](https://img.shields.io/badge/Youtube-red.svg)](https://www.youtube.com/channel/UCrsJwCKxFi0HYj63i8s51Fg)
-[![Instagram](https://img.shields.io/badge/Instagram-black.svg)](https://www.instagram.com/wuhuaprpr)
+[![Instagram](https://img.shields.io/badge/Instagram-333.svg)](https://www.instagram.com/wuhuaprpr)
 
 ---
 
